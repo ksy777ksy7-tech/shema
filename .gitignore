@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Generated files
+target/
+
+# Java
+*.class
+
+# Wrapper logs
+gradle-app.setting
+
+# Local configuration
+local.properties
